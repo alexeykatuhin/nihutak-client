@@ -1,0 +1,13 @@
+{
+    "USER":{
+        "LOGIN": "Log in",
+        "LOGOUT":"Log out",      
+        "USERNAME":"Username",
+        "PASSWORD": "Password",
+        "OR": "Or",        
+        "REGISTERING": "Register",        
+        "PERSONAL": "Personal",
+        "FORGOT": "Forgot password",                
+        "REGISTER": "Register"
+    }
+}
